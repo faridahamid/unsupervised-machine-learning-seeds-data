@@ -1,0 +1,1 @@
+In this code there is a preprocessing to the data and visualizations to understand the data and the colerations between the features , performing PCA to the data and performing the Fuzzy_Mean algorithm and the entropy based algorithm . this is a seed data set from kaggle you can view it through this link:https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci 
